@@ -1,5 +1,5 @@
-var Field = require('../Field');
+import Field from '../Field';
 
 module.exports = Field.create({
-	displayName: 'KeyField'
+	displayName: 'KeyField',
 });
